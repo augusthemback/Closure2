@@ -1,0 +1,10 @@
+C:\Projects\C#\Closure2\bin\Debug\Closure2.exe.config
+C:\Projects\C#\Closure2\bin\Debug\Closure2.exe
+C:\Projects\C#\Closure2\bin\Debug\Closure2.pdb
+C:\Projects\C#\Closure2\obj\Debug\Closure2.csprojAssemblyReference.cache
+C:\Projects\C#\Closure2\obj\Debug\Closure2.ClosureForm.resources
+C:\Projects\C#\Closure2\obj\Debug\Closure2.Properties.Resources.resources
+C:\Projects\C#\Closure2\obj\Debug\Closure2.csproj.GenerateResource.cache
+C:\Projects\C#\Closure2\obj\Debug\Closure2.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Closure2\obj\Debug\Closure2.exe
+C:\Projects\C#\Closure2\obj\Debug\Closure2.pdb
